@@ -36,7 +36,7 @@
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
     "mongoose": "^5.6.1",
-    "@angular-devkit/build-angular": "~0.800.0",
+    "@angular-devkit/build-angular": "~15.0.4",
     "@angular/cli": "~8.0.2",
     "@angular/compiler-cli": "~8.0.0",
     "@angular/language-service": "~8.0.0",
